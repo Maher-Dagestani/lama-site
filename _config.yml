@@ -1,0 +1,5 @@
+theme: jekyll-theme-primer
+title: Lama
+description: A warm and welcoming English Club
+plugins:
+  - jekyll-relative-links
