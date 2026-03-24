@@ -8,7 +8,7 @@ title: Lama
 
 ---
 
-## 🌟 Who We Are
+## 🌟 Who We Are?
 
 Hey there! We're **Lama English Club** — a friendly, fun, and supportive community for anyone who wants to improve their English skills, build confidence, and connect with like-minded people.
 
